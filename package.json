@@ -1,16 +1,16 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "type": "module"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sanjay Asokan",
   "license": "ISC",
-  "description": "",
+  "description": "Backend for Hospital Management System",
   "dependencies": {
     "@google/genai": "^1.27.0",
     "@sendgrid/mail": "^8.1.6",
