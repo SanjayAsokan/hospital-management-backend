@@ -41,6 +41,10 @@ It manages authentication, multi-tenant hospital data, appointments, prescriptio
 - Support ticket system for patients
 - Secure JWT-based authentication
 
+## 🌐 Deployment
+- **Backend API deployed on Render / Heroku**:  
+  [Live API Link](YOUR_BACKEND_DEPLOYED_URL)
+
 ## 🔗 Frontend Repository
 [Hospital Management Frontend](https://github.com/SanjayAsokan/hospital-management-frontend)
 
